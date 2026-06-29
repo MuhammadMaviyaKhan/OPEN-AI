@@ -2,7 +2,7 @@ const API_CONFIGS = {
   openrouter: {
     baseURL: '/api/openrouter',
     model: 'openai/gpt-4o-mini',
-    keyEnv: 'VITE_OPENROUTER_API_KEY',
+    keyEnv: 'VITE_DEEPSEEK_API_KEY',
   },
 }
 
